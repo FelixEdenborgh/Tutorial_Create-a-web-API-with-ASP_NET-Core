@@ -1,6 +1,18 @@
+@Tutorial_Create a web API with ASP_NET Core_HostAddress = https://localhost:7275
 @Tutorial_Create_a_web_API_with_ASP_NET_Core_HostAddress = http://localhost:5225
 
 GET {{Tutorial_Create_a_web_API_with_ASP_NET_Core_HostAddress}}/weatherforecast/
 Accept: application/json
+
+###
+
+POST {{Tutorial_Create a web API with ASP_NET Core_HostAddress}}/api/todoitems
+Content-Type: application/json
+
+{
+  //TodoItem
+  "name": "walk dog",
+  "isComplete": true
+}
 
 ###
