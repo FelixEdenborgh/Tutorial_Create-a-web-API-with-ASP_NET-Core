@@ -1,0 +1,6 @@
+@Tutorial_Create_a_web_API_with_ASP_NET_Core_HostAddress = http://localhost:5225
+
+GET {{Tutorial_Create_a_web_API_with_ASP_NET_Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
