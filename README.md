@@ -9,6 +9,7 @@ Get
 Delete
 ![opera_gTsTIlq1ci](https://github.com/FelixEdenborgh/Tutorial_Create-a-web-API-with-ASP_NET-Core/assets/31070311/dfe0e2a3-a4fa-4bce-a9bb-a4affad5acd4)
 
-
+Secret
+![opera_SMN3TbwpNB](https://github.com/FelixEdenborgh/Tutorial_Create-a-web-API-with-ASP_NET-Core/assets/31070311/95659775-4e34-44d3-82eb-0cda95d076fd)
 
 
